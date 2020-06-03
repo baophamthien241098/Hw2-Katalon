@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginApi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44d5e548-89c2-4a05-939c-99c21ff8fe0d</testCaseGuid>
+   <variable>
+      <defaultValue>'baophamthien241098@gmail.com'</defaultValue>
+      <description></description>
+      <id>088b0617-91fa-4433-a7ee-bc74f7461ea5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'asbcd11782'</defaultValue>
+      <description></description>
+      <id>db26f647-68a8-4e97-b152-7a492f1f5396</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>
